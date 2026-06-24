@@ -47,23 +47,16 @@ Search keywords: `one-api`, `openai proxy`, `ai gateway`
 
 ## Client Integrations
 
-### Cherry Studio
+### API Aggregation Platforms
 
-Desktop AI chat client that supports custom providers and OpenAI-compatible endpoints.
+Aggregation platforms provide one API layer for multiple model providers, with routing, usage tracking, and access control.
 
-- Website: https://cherry-ai.com/
-- ModelPort guide: https://github.com/modelportglobal/cherry-studio-modelport-config
-
-### CC Switch
-
-Developer tool for switching compatible AI service configurations.
-
-- Website: https://ccswitch.io/
+- ModelPort guide: https://github.com/modelportglobal/modelport-api-aggregation-guide
 
 ## Example Repositories
 
 - ModelPort examples: https://github.com/modelportglobal/modelport-examples
-- Cherry Studio setup: https://github.com/modelportglobal/cherry-studio-modelport-config
+- API aggregation guide: https://github.com/modelportglobal/modelport-api-aggregation-guide
 - API router templates: https://github.com/modelportglobal/openai-compatible-api-router
 
 ## Choosing A Gateway
@@ -81,4 +74,3 @@ Consider these factors:
 ## Responsible Use
 
 Use gateways only with authorized API access and permitted workloads. Do not use gateway software or hosted services to bypass provider terms, safety systems, or account restrictions.
-
