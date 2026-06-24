@@ -24,6 +24,7 @@ ModelPort Global is a unified AI API gateway for connecting applications to mult
 - Website: https://www.modelportglobal.com/
 - Pricing: https://www.modelportglobal.com/pricing
 - Dashboard: https://www.modelportglobal.com/dashboard
+- Model coverage: DeepSeek, Qwen, GLM, Claude, GPT, and other account-enabled models
 
 Best for:
 
