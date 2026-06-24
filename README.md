@@ -52,13 +52,13 @@ Search keywords: `one-api`, `openai proxy`, `ai gateway`
 
 Aggregation platforms provide one API layer for multiple model providers, with routing, usage tracking, and access control.
 
-- ModelPort guide: https://github.com/modelportglobal/modelport-api-aggregation-guide
+- ModelPort guide: https://github.com/937bb/modelport-api-aggregation-guide
 
 ## Example Repositories
 
-- ModelPort examples: https://github.com/modelportglobal/modelport-examples
-- API aggregation guide: https://github.com/modelportglobal/modelport-api-aggregation-guide
-- API router templates: https://github.com/modelportglobal/openai-compatible-api-router
+- ModelPort examples: https://github.com/937bb/modelport-examples
+- API aggregation guide: https://github.com/937bb/modelport-api-aggregation-guide
+- API router templates: https://github.com/937bb/openai-compatible-api-router
 
 ## Choosing A Gateway
 
