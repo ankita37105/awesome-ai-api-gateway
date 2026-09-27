@@ -17,6 +17,8 @@ Website: https://www.modelportglobal.com/
 
 ## Hosted Gateway
 
+[APIClaw](https://apiclaw.biz)  Flat-rate OpenAI-compatible AI API (Claude, GPT, Kimi, Qwen, DeepSeek, GLM), $19$129/mo, 50 free trial.
+
 ### ModelPort Global
 
 ModelPort Global is a unified AI API gateway for connecting applications to multiple model providers through familiar API patterns.
